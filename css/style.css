@@ -233,7 +233,6 @@
 
     font-size: 14px;
     font-family: "Titillium Web"
-        color: #333;
 
 }
 
@@ -242,6 +241,13 @@
     display: flex;
     justify-content: center;
     gap: 10px;
+
+}
+
+.main-business-slide .itm figure {
+
+    padding-bottom: 120px;
+
 }
 
 .main-business-slide .itm .img_box {
@@ -249,6 +255,13 @@
     max-width: 100%;
     width: 100%;
 
+}
 
+.main-business-slide .itm p {
+
+    display: block;
+    font-size: 18px;
+    text-align: center;
+    margin: 32px 0;
 
 }
